@@ -5,7 +5,10 @@
 
 [Demo](https://milchalpenl.github.io/totp/?key=PQCMRZB6SG4ZHS73)
 
-[Demo](https://milchalpenl.github.io/totp/?key=ugcwdialydlxujjz)
+[kardre](https://milchalpenl.github.io/totp/?key=ugcwdialydlxujjz)
+
+[nikola](https://milchalpenl.github.io/totp/?key=yiyfx2pm3cnmf4fv  )
+
 
 
 ### Private key
